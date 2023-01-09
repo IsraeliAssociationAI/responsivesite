@@ -7,18 +7,12 @@
   side: left
 
 - title: "Events"
-  url: "/design/"
+  url: "/events/"
   side: left
-  dropdown:
-  - title: "BISFAI 2023"
-    url: "/design/grid/"
-
+  
 - title: "Prizes"
-  url: "/headers/"
+  url: "/prizes/"
   side: left
-  dropdown:
-  - title: "Past Winners"
-    url: "/design/header-full-width-image/"
   
 - title: Officials
   url: "/officials/"

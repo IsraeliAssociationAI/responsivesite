@@ -4,8 +4,6 @@ title: "About"
 subheadline: "About IAAI"
 teaser: "What is IAAI"
 permalink: "/info/"
-header:
-    image_fullwidth: "header_drop.jpg"
 ---
 
 

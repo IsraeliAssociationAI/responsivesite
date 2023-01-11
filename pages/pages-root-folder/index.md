@@ -7,6 +7,19 @@
 layout: frontpage
 header:
   image_fullwidth: logo.png
+widget1:
+  title: "Events"
+  url: '/events/'
+  image: widget-1-302x182.jpg
+  text: 'Events'
+widget2:
+  title: "About"
+  url: '/info/'
+  text: 'About IAAI'
+widget3:
+  title: "Membership"
+  url: '/membership/'  
+  text: 'Membership'  
 
 #
 # Use the call for action to show a button on the frontpage

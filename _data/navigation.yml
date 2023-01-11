@@ -2,6 +2,10 @@
   url: "/info/"
   side: left
 
+- title: Activities
+  url: "/activities/"
+  side: left
+
 - title: Membership
   url: "/membership/"
   side: left

@@ -23,5 +23,5 @@ Prof. Erez Karpas, Technion
 
 * Dr. Alexander Shleyfman, Bar-Ilan University
 * Dr. Reuth Mirsky, Bar-Ilan University
-* Dr. Shahaf Shperberg, University of Texas, Austin
+* Dr. Shahaf Shperberg, Ben Gurion University
 * Dr. Omer Ben-Porat, Technion

@@ -2,7 +2,7 @@
 layout: page
 title: "Activities"
 subheadline: "IAAI Activities"
-teaser: "What activities does IAAI undetake"
+teaser: "What activities does IAAI undertake?"
 permalink: "/activities/"
 ---
 

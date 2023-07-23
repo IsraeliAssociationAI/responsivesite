@@ -20,10 +20,6 @@ Please use the combo box below to select your membership type, and then pay via 
 You will get a receipt via email within a few days.
 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
-
-
 
 <div id="smart-button-container">
 <div style="text-align: center;">

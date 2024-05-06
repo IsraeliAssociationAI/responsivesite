@@ -10,4 +10,6 @@ permalink           : "/contact/"
 ## Chief Contact: ##
 Prof. [Erez Karpas](mailto:karpase@technion.ac.il), Chairperson of IAAI
 
+[Mailing List](https://groups.google.com/g/israeliassociationai)
+
 

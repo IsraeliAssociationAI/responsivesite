@@ -9,6 +9,19 @@ permalink           : "/prizes/"
 
 ## IAAI Best PhD Thesis Award ##
 
+
+* 2023
+ * Winner: Dr. Roei Herzig, Tel Aviv University. PhD thesis: Towards Compositionality in Computer Vision. Advised by Prof. Amir Globerson​
+ * Runner-up: Dr. Yanai Elazar, Bar-Ilan University. PhD thesis: Revealing Capabilities of Language Models. Advised by Prof. Yoav Goldberg.
+ * Committee members:   Gilad Katz, Segev Wasserkrug
+ * Prize sponsored by Google
+
+* 2022
+  * Winner: Dr. Leshem Choshen, Hebrew University of Jerusalem. PhD thesis: Improving Neural Machine Translation using Semantic Structure. Advised by Prof. Omri Abend​
+  * Runner-up: Dr. Hila Gonen, Bar-Ilan University. PhD thesis: Multilinguality and Bias in Language Modeling. Advised by Prof. Yoav Goldberg.
+  * Committee members:   Carmel Domshlak, Gal Kaminka
+
+
 * 2021
   * Winner: Dr. Omer Ben-Porat, Technion. PhD thesis: Strategic Behavior in prediction and recommendation. Advised by Prof. Moshe Tennenholtz​
   * Runner-up: Dr. Roee Aharoni, Bar-Ilan University. PhD thesis: Topics in Sequence-to-sequence learning in NLP. Advised by Prof. Ido Dagan.

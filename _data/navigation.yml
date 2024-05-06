@@ -22,6 +22,10 @@
   url: "/officials/"
   side: left
 
+- title: Industrail Advisory Board
+  url: "/industrial/"
+  side: left  
+
 - title: "Contact"
   url: "/contact/"
   side: right

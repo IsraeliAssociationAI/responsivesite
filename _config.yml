@@ -42,7 +42,7 @@ urlimg: 'https://IsraeliAssociationAI.github.io/responsivesite/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "iaai_logo_site.png"
+logo: "logo.png"
 
 # Plugins
 plugins:

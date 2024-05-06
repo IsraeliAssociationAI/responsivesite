@@ -3,7 +3,7 @@ layout              : page
 title               : "Industrial Advisory Board"
 meta_title          : "Industrial Advisory Board"
 subheadline         : "Industrial Advisory Board of IAAI"
-teaser              : "Industrial Advisory Board IAAI?"
+teaser              : "What is the Industrial Advisory Board of IAAI?"
 permalink           : "/industrial/"
 ---
 

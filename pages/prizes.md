@@ -7,7 +7,10 @@ teaser              : "What prizes does IAAI give out?"
 permalink           : "/prizes/"
 ---
 
+
 ## IAAI Best PhD Thesis Award ##
+
+The Israeli Association for Artificial Intelligence (IAAI) established the IAAI Doctoral Dissertation Award program in 2018 to recognize superior research and writing by doctoral candidates in Israel studying Artificial Intelligence.
 
 
 * 2023
